@@ -1,7 +1,7 @@
-from codigofacilito import workshops
 from codigofacilito import unreleased
 
 if __name__ == "__main__":
-    print('primer taller del 2022')
+    print('>>> Ejecutando')
     workshops= unreleased()
     print(workshops)
+    print('>>> Finalizando')
